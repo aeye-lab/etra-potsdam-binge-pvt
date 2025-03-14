@@ -7,8 +7,9 @@ For each subject and experimental session we provide a file ```[subjectID]_[sess
   * ```a```: alcohol recording
   * ```b``` and ```e```: baseline recording
 * ```[subjectID]_[sessionID]_[condition]_[trial_id]_[block_id].csv```
-  | column      | type | description     |
-| :---        |    :----   |          :--- |
+
+| column  | type | description|
+| ------------- | ------------- | ------------- |
 | trial_id      | float       | Trial-id for current recording   |
 | block_id   | float        | Block-id for current recording      |
 |x_pix_eyelink | float |x-pixel coordinates using eyelink remote eye-tracker (EyeLink 1000 Plus)|
