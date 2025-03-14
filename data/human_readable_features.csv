@@ -1,0 +1,164 @@
+,feature_names,human_readable
+0,fixation_texas_median_AccProfMd_R,Median (over fixations) of median accelaration~\cite{rigas2018study}
+1,fixation_texas_mean_VelProfSk_R,Mean (over fixations) of skewness values of velocity~\cite{rigas2018study}
+2,fixation_texas_median_VelProfSk_R,Median (over fixations) of skewness values of velocity~\cite{rigas2018study}
+3,fixation_texas_median_AccProfMn_R,Median (over fixations) of mean accelerations during fixations (deg/s$^2$)~\cite{rigas2018study}
+4,fixation_texas_median_VelProfKu_R,Mean (over fixations) of kurtosis values of velocity~\cite{rigas2018study}
+5,fixation_texas_median_AccProfMd_H,Mean (over fixations) of medians of horizontal accelerations during fixations (deg/s$^2$)~\cite{rigas2018study}
+6,fixation_texas_mean_VelProfSk_H,Mean (over fixations) of skewness values of horizontal velocity~\cite{rigas2018study}
+7,fixation_texas_mean_AccProfMd_V,Mean (over fixations) of medians of vertical  accelerations during fixations (deg/s$^2$)~\cite{rigas2018study}
+8,fixation_texas_median_AccProfMd_V,Median (over fixations) of medians of vertical accelerations during fixations (deg/s$^2$)~\cite{rigas2018study}
+9,fixation_texas_mean_AccProfMd_R,Mean (over fixations) of medians of accelerations during fixations (deg/s$^2$)~\cite{rigas2018study}
+10,saccade_texas_mean_direction_h,Mean (over saccades ) of horizontal direction of saccade~\cite{rigas2018study}
+11,fixation_texas_median_AccProfSd_H,Median (over fixations) of standard deviations of horizontal accelerations during fixations (deg/s$^2$)~\cite{rigas2018study}
+12,fixation_texas_mean_AccProfSd_V,Mean (over fixations) of standard deviations of vertical accelerations during fixations (deg/s$^2$)~\cite{rigas2018study}
+13,fixation_texas_median_AccProfSd_V,Median (over fixations) of standard deviations of vertical accelerations during fixations (deg/s$^2$)~\cite{rigas2018study}
+14,fixation_texas_mean_AccProfSd_R,Mean (over fixations) of standard deviations of accelerations during fixations (deg/s$^2$)~\cite{rigas2018study}
+15,fixation_texas_median_AccProfSd_R,Median (over fixations) of standard deviations of accelerations during fixations (deg/s$^2$)~\cite{rigas2018study}
+16,fixation_texas_median_DriftAvgSpeed_V,Median (over fixations) of means of vertical drift velocities  ~\cite{rigas2018study}
+17,fixation_texas_mean_AccProfSk_H,Mean (over fixations) of skewness values of horizontal accelerations during fixations (deg/s$^2$)~\cite{rigas2018study}
+18,fixation_texas_median_VelProfSk_H,Median (over fixations) of skewness values of horizontal accelerations during fixations (deg/s$^2$)~\cite{rigas2018study}
+19,saccade_texas_std_peak_vel_duration_ratio_v,Standard deviation (over saccades) of vertical peak velocities of saccades (deg/s$^2$)~\cite{rigas2018study}
+20,fixation_texas_mean_AccProfMd_H,Mean (over fixations) medians of horizontal accelerations during fixations (deg/s$^2$)~\cite{rigas2018study}
+21,fixation_texas_median_AccProfSk_H,Mean (over fixations) of  skewness values of horizontal accelerations during fixations (deg/s$^2$)~\cite{rigas2018study}
+22,fixation_texas_mean_VelProfSk_V,Mean (over fixations) of  skewness values of velocity~\cite{rigas2018study}
+23,fixation_texas_median_VelProfSk_V,Median (over fixations) of skewness values of velocity~\cite{rigas2018study}
+24,fixation_texas_median_VelProfMd_R,Median (over fixations) medians of velocity~\cite{rigas2018study}
+25,fixation_texas_median_VelProfKu_H,Median (over fixations) kurtosis values of horizontal velocity~\cite{rigas2018study}
+26,fixation_texas_mean_VelProfKu_V,Mean (over fixations) of  kurtosis values of vertical velocity~\cite{rigas2018study}
+27,fixation_texas_median_VelProfKu_V,Median (over fixations) kurtosis values of vertical velocity~\cite{rigas2018study}
+28,fixation_texas_median_AccProfKu_H,Median (over fixations) kurtosis values of horizontal accelerations during fixations (deg/s$^2$)~\cite{rigas2018study}
+29,fixation_texas_mean_VelProfKu_R,Mean (over fixations) of kurtosis values of velocity~\cite{rigas2018study}
+30,fixation_texas_median_VelProfMd_V,Median (over fixations) medians of vertical velocity~\cite{rigas2018study}
+31,fixation_texas_mean_AccProfMn_R,Mean (over fixations) of means of accelerations during fixations (deg/s$^2$)~\cite{rigas2018study}
+32,fixation_texas_median_AccProfMn_H,Median (over fixations) means of horizontal accelerations during fixations (deg/s$^2$)~\cite{rigas2018study}
+33,fixation_texas_mean_AccProfMn_V,Mean (over fixations) of medians of vertical accelerations during fixations (deg/s$^2$)~\cite{rigas2018study}
+34,fixation_texas_median_AccProfMn_V,Median (over fixations) means of vertical accelerations during fixations (deg/s$^2$)~\cite{rigas2018study}
+35,fixation_texas_median_VelProfMd_H,Median (over fixations) medians of horizontal velocity~\cite{rigas2018study}
+36,fixation_texas_mean_AccProfSk_V,Mean (over fixations) of skewness values of vertical accelerations during fixations (deg/s$^2$)~\cite{rigas2018study}
+37,fixation_texas_median_AccProfSk_R,Median (over fixations) skewness values of accelerations during fixations (deg/s$^2$)~\cite{rigas2018study}
+38,fixation_texas_mean_AccProfKu_R,Mean (over fixations) of kurtosis values of accelerations during fixations (deg/s$^2$)~\cite{rigas2018study}
+39,fixation_texas_median_DriftAvgSpeed_R,Median (over fixations) means of drift velocities  ~\cite{rigas2018study}
+40,count_errors,Time steps which are no saccade or fixation
+41,fixation_texas_median_DriftFitQd_R2_H,Median (over fixations) fits for horizontal drift~\cite{rigas2018study}
+42,saccade_texas_median_centroid_v,Median (over saccades) of vertical saccade postions~\cite{rigas2018study}
+43,count_eye_states_2,Time steps with eye state “partially open”~Asaphus Vision
+44,count_eye_states_3,"Time steps with eye state “downcast""~Asaphus Vision"
+45,eye_closure__mean_standard_closure_speed_max,Mean (over eye closure) of standardized eye closure max speeds~\cite{Schleicher2008}
+46,fixation_texas_median_DriftAvgSpeed_H,Median (over fixations) means of horizontal drift velocities ~\cite{rigas2018study}
+47,fixation_texas_std_DriftDist_R,Standard deviation (over fixations) drift distance during fixations~\cite{rigas2018study}
+48,fixation_texas_mean_AccProfSd_H,Mean (over fixations) of standard deviations of horizontal accelerations during fixations (deg/s$^2$)~\cite{rigas2018study}
+49,saccade_texas_mean_vel_profile_median_r,Mean (over saccades) of medians of velocities during saccades ~\cite{rigas2018study}
+50,eye_closure__median_-AVR,Median (over saccades) of ratio of the maximum amplitude to maximum velocity of eyelid movement for the reopening phase~\cite{wilkinson2013the}
+51,saccade_texas_std_peak_vel_duration_ratio_r,Standard deviation (over saccades) peak velocities of saccades (deg/s$^2$)~\cite{rigas2018study}
+52,fixation_texas_skew_VelProfSk_R,Skewness (over fixations) of skewness values of velocity~\cite{rigas2018study}
+53,saccade_texas_mean_direction,Mean (over saccades) of saccade directions~\cite{rigas2018study}
+54,fixation_texas_mean_DriftDist_H,Mean (over fixations) of horizontal drift distances during fixations~\cite{rigas2018study}
+55,fixation_texas_mean_AccProfSk_R,Mean (over fixations) of skewness values of accelerations during fixations (deg/s$^2$)~\cite{rigas2018study}
+56,eye_closure__mean_closure_speed_max,mean eye closure maximal speed~\cite{Schleicher2008}
+57,saccade_texas_median_centroid_h,Median (over saccades) of horizontal saccade positions~\cite{rigas2018study}
+58,count_eye_states_0,Time steps with eye state “open”~Asaphus Vision
+59,saccade_texas_std_POC3[MaxIndex],Standard deviation (over saccades) of relative position of greatest deviation between saccadic trajectory&\\& and straight line~\cite{doyle2001curved}
+60,fixation_texas_median_PosCentroid_H,Median (over fixations) horizontal position~\cite{rigas2018study}
+61,fixation_texas_mean_VelProfSd_V,Mean (over fixations) of standard deviations of vertical velocity~\cite{rigas2018study}
+62,saccade_texas_std_amp_r,Standard deviation for saccadic amplitudes~\cite{rigas2018study}
+63,saccade_texas_std_RawPOC,Standard deviation (over saccades) of deviations between saccadic trajectory&\\& and straight line~\cite{doyle2001curved}
+64,eye_closure_TEC,Blink duration (over eye closures) from onset of closing to full reopening~\cite{wilkinson2013the}
+65,saccade_texas_skew_amp_h,Skewness (over saccades) amplitude~\cite{rigas2018study}
+66,eye_closure__mean_BTD,Mean (over eye closures) of blink duration from maximum closing to maximum opening velocity~\cite{wilkinson2013the}
+67,saccade_texas_std_amp_h,Standard deviation (over saccades) saccadic amplitudes~\cite{rigas2018study}
+68,count_fixations,Number of fixations (count)
+69,eye_closure__mean_delay_reopening,Mean (over eye closures) of delay between full closure and onset of reopening\cite{Schleicher2008}
+70,eye_closure__std_delay_reopening,Standard deviation (over eye closures) delay between full closure and onset of reopening\\cite{Schleicher2008}
+71,fixation_texas_std_AccProfSk_R,Standard deviation (over saccades) skewness values of acceleration~\cite{rigas2018study}
+72,fixation_texas_mean_AccProfMn_H,Mean (over fixations) of means of horizontal acceleration~\cite{rigas2018study}
+73,fixation_texas_std_AccProfKu_V,Standard deviation (over fixations) kurtosis values of vertical acceleration~\cite{rigas2018study}
+74,saccade_texas_std_vel_profile_mean_v,Standard deviation (over saccades) delay between full closure and onset of reopening~\cite{Schleicher2008}
+75,eye_closure__median_IED,Median (over saccades) of blink durations from maximum closing to maximum opening velocity~\cite{wilkinson2013the}
+76,fixation_texas_skew_AccProfMn_R,Skewness (over fixations) of means of acceleration~\cite{rigas2018study}
+77,fixation_texas_std_VelProfSk_V,Standard deviation (over fixations) skewness values of vertical velocity~\cite{rigas2018study}
+78,eye_closure__std_blink_duration,Standard deviation (over eye closures) blink durations from start to maximum reopening velocity~\cite{Schleicher2008}
+79,eye_closure__mean_IED,Mean (over eye closures) of blink durations from maximum closing to maximum opening velocity~\cite{wilkinson2013the}
+80,eye_closure_LC,Percentage of time with eyes closed~\cite{wilkinson2013the}
+81,fixation_texas_mean_PosCentroid_H,Mean (over fixations) of horizontal position~\cite{rigas2018study}
+82,saccade_texas_median_peak_vel_v,Median (over saccades) of vertical peak velocities during saccades ~\cite{rigas2018study}
+83,saccade_texas_mean_centroid_v,Mean (over fixations) of vertical saccade postions~\cite{rigas2018study}
+84,count_eye_states_1,"Time steps with eye state “cosed""~Asaphus Vision"
+85,saccade_texas_std_amp_v,Standard deviation (over saccades) vertical amplitude~\cite{rigas2018study}
+86,count_saccades,Number of saccadees (count)
+87,count_corrupt,Time steps with no eye tracking signal
+88,saccade_texas_mean_amp_r,Mean (over fixations) amplitude~\cite{rigas2018study}
+89,saccade__median_standard_saccadic_velocity_max,Median (over saccades) of standardized maxmimum velocities during saccades ~\cite{rigas2018study}
+90,fixation_texas_median_PosCentroid_V,Median (over fixations) vertical postions~\cite{rigas2018study}
+91,saccade_texas_mean_vel_profile_median_v,Mean (over saccades) of medians of velocities for vertical saccades ~\cite{rigas2018study}
+92,eye_closure__median_BTD,Median (over eye closures) of blink duration from maximum closing to maximum opening velocity~\cite{wilkinson2013the}
+93,eye_closure__skew_delay_reopening,Skewness  (over eye closures)  of delay between full closure and onset of reopening~\cite{Schleicher2008}
+94,eye_closure__skew_+AVR,Skewness  (over eye closures)  of ratio of the maximum amplitude to maximum velocity of eyelid movement for the closing phase~\cite{wilkinson2013the}
+95,eye_closure__kurtosis_+AVR,Kurtosis  (over eye closures)  of ratio of the maximum amplitude to maximum velocity of eyelid movement for the closing phase~\cite{wilkinson2013the}
+96,eye_closure__median_standard_lid_reopening_durations,Median  (over eye closures)  of mean closure velocities during blink normalized by expected velocity~\cite{Schleicher2008}
+97,eye_closure__skew_standard_lid_reopening_durations,Skewness  (over eye closures)  of mean closure velocities during blink normalized by expected velocity~\cite{Schleicher2008}
+98,fixation_texas_skew_PosCentroid_V,Skewness (over fixations) of vertical positions~\cite{rigas2018study}
+99,eye_closure__std_standard_closure_speed_max,Standard deviation (over eye closures) maximal closure velocities during blink normalized by expected velocity~\cite{Schleicher2008}
+100,eye_closure__std_blink_intervals,Standard deviation (over eye closures) time interval between two adjacent blinks~\cite{Schleicher2008}
+101,eye_closure__mean_blink_intervals,Mean (over eye closures) of time interval between two adjacent blinks~\cite{Schleicher2008}
+102,saccade__std_saccadic_amplitude_mean,Standard deviation (over saccades) mean amplitudes during saccades~\cite{rigas2018study}
+103,eye_closure__std_-AVR,Standard deviation (over eye closures) ratio of the maximum amplitude to maximum velocity of eyelid movement for the reopening phase~\cite{wilkinson2013the}
+104,eye_closure__mean_standard_closure_speed_mean,Mean (over fixations) of mean closure velocities during blinks normalized by expected velocity~\cite{Schleicher2008}
+105,eye_closure__std_standard_closure_speed_mean,Standard deviation (over eye closures) mean closure velocities during blinks normalized by expected velocity~\cite{Schleicher2008}
+106,eye_closure__median_standard_closure_speed_mean,Median  (over eye closures) of mean closure velocities during blinks normalized by expected velocity~\cite{Schleicher2008}
+107,eye_closure__skew_standard_closure_speed_mean,Skewness  (over eye closures) of mean closure velocities during blinks normalized by expected velocity~\cite{Schleicher2008}
+108,eye_closure__mean_closure_speed_mean,Mean (over eye closures) of mean closure velocities during blinks~\cite{Schleicher2008}
+109,saccade_texas_kurtosis_tail_pr_inconsist,Kurtosis  (over saccades) of tail during saccades~\cite{rigas2018study}
+110,saccade_texas_std_vel_profile_mean_r,Standard deviation (over saccades) Mean (over fixations) of velocity~\cite{rigas2018study}
+111,eye_closure__median_blink_duration,Median  (over eye closures) deviation of blink durations from start to maximum reopening velocity~\cite{Schleicher2008}
+112,fixation_texas_mean_AccProfKu_H,Mean (over fixations) of kurtosis values of horizontal acceleration~\cite{rigas2018study}
+113,eye_closure__mean_standard_blink_duration,Mean (over eye closures) of blink durations from start to maximum reopening velocity normalized by&\\& expected duration~\cite{Schleicher2008}
+114,saccade__mean_saccadic_duration_mean,Mean (over saccades) mean durations~\cite{rigas2018study}
+115,eye_closure__median_+AVR,Median (over eye closures) of ratio of the maximum amplitude to maximum velocity of eyelid movement for the closing phase~\cite{wilkinson2013the}
+116,eye_closure__mean_-AVR,Mean (over eye closures) of ratio of the maximum amplitude to maximum velocity of eyelid movement for the reopening phase~\cite{wilkinson2013the}
+117,fixation_texas_mean_VelProfMd_H,Mean (over fixations) of medians of horizontal velocity~\cite{rigas2018study}
+118,fixation_texas_kurtosis_AccProfKu_V,Kurtosis (over fixations) of kurtosis values of vertical acceleration~\cite{rigas2018study}
+119,fixation_texas_median_VelProfSd_V,Median (over fixations) standard deviations of vertical velocity~\cite{rigas2018study}
+120,saccade_texas_kurtosis_centroid_v,Kurtosis (over saccades) vertical positions~\cite{rigas2018study}
+121,eye_closure__skew_closure_speed_mean,Skewness (over eye closures) of mean closure velocities during blink normalized by expected velocity~\cite{Schleicher2008}
+122,eye_closure__mean_blink_duration,Mean (over eye closures) of blink durations from start to maximum reopening velocity~\cite{Schleicher2008}
+123,eye_closure__median_standard_blink_duration,Median (over eye closures) of blink durations from start to maximum reopening velocity~\cite{Schleicher2008}
+124,eye_closure__kurtosis_blink_intervals,Kurtosis (over eye closures) of blink durations from start to maximum reopening velocity~\cite{Schleicher2008}
+125,fixation_texas_std_PosCentroid_V,Standard deviation (over fixations) vertical position~\cite{rigas2018study}
+126,saccade_texas_std_centroid_h,Standard deviation (over saccades) of horizontal position~\cite{rigas2018study}
+127,fixation_texas_mean_duration,Mean (over fixations) duration~\cite{rigas2018study}
+128,saccade_texas_mean_centroid_h,Mean (over saccades) horizontal position~\cite{rigas2018study}
+129,saccade__mean_saccadic_velocity_max,Mean (over saccades) of maxmimum velocity ~\cite{rigas2018study}
+130,fixation_texas_std_DriftFitLn_Slope_H,Standard deviation (over fixations) horizontal slope of drift~\cite{rigas2018study}
+131,saccade_texas_mean_amp_v,Mean for vertical saccadic amplitude~\cite{rigas2018study}
+132,fixation_texas_std_PosCentroid_H,Standard deviation (over fixations) horizontal position~\cite{rigas2018study}
+133,saccade_texas_mean_pos_trace_sd_h,Mean (over saccades) of deviation of horizontal position~\cite{rigas2018study}
+134,saccade__mean_saccadic_velocity_mean,Mean (over saccades) of mean velocity~\cite{rigas2018study}
+135,saccade_texas_mean_vel_profile_std_h,Mean (over saccades) of deviations of horizontal velocity~\cite{rigas2018study}
+136,saccade_texas_mean_vel_profile_std_r,Mean (over saccades) of deviations of velocity ~\cite{rigas2018study}
+137,saccade_texas_mean_duration,Mean (over saccades) duration~\cite{rigas2018study}
+138,saccade_texas_mean_num_vel_loc_min,Mean (over saccades) of velocity local minima~\cite{rigas2018study}
+139,saccade_texas_median_peak_vel_v,Median (over saccades) vertical peak velocity~\cite{rigas2018study}
+140,saccade__mean_standard_saccadic_duration_mean,Mean (over saccades) standard mean duration~\cite{rigas2018study}
+141,saccade_texas_std_centroid_v,Standard deviation (over saccades) vertical position~\cite{rigas2018study}
+142,saccade_texas_mean_amp_h,Mean (over saccades) amplitude~\cite{rigas2018study}
+143,saccade_texas_mean_peak_vel_r,Mean (over saccades) peak velocity~\cite{rigas2018study}
+144,fixation_texas_mean_DriftDisp_R,Mean (over fixations) drift displacement~\cite{rigas2018study}
+145,fixation_texas_mean_DriftDisp_H,Mean (over fixations) horizontal drift displacement~\cite{rigas2018study}
+146,fixation_texas_median_DriftDisp_H,Median (over fixations) horizontal drift displacement~\cite{rigas2018study}
+147,fixation_texas_median_DriftDisp_R,Median (over fixations) drift displacement~\cite{rigas2018study}
+148,fixation_texas_std_DriftDisp_H,Standard deviation (over fixations) horizontal drift displacement~\cite{rigas2018study}
+149,saccade_texas_median_amp_v,Median (over saccades) vertical amplitude~\cite{rigas2018study}
+150,saccade_texas_median_pos_trace_sd_h,Median (over saccades) of deviation of horizontal position~\cite{rigas2018study}
+151,fixation_texas_std_duration,Standard deviaton (over fixations) duration~\cite{rigas2018study}
+152,fixation_texas_median_duration,Median (over fixations) duration~\cite{rigas2018study}
+153,saccade_texas_median_vel_profile_std_h,Median (over saccades) of deviations of horizontal velocity~\cite{rigas2018study}
+154,saccade_texas_median_peak_vel_r,Median (over saccades) peak velocity~\cite{rigas2018study}
+155,saccade_texas_median_peak_vel_duration_ratio_r,Median (over saccades) vertical peak velocitiy~\cite{rigas2018study}
+156,saccade_texas_median_amp_r,Median (over saccades) amplitude~\cite{rigas2018study}
+157,saccade_texas_median_amp_duration_ratio_r,Median (over saccades) amplitude duration ratio~\cite{rigas2018study}
+158,,
+159,,
+160,,
+161,,
+162,,
