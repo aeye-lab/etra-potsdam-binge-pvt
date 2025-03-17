@@ -79,6 +79,8 @@ def evaluate_model(args):
     data_source = args.data_source
     stride = args.stride    
     
+    os.makedirs(save_dir, exist_ok = True) 
+    
     if flag_redo == 1:
         flag_redo = True
     else:
