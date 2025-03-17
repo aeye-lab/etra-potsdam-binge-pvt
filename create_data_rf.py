@@ -142,12 +142,14 @@ def evaluate_model(args):
         dataset = pm.Dataset('PotsdamBingeRemotePVT', path='data/PotsdamBingeRemotePVT')
     elif data_source == 'pupilcore':
         dataset = pm.Dataset('PotsdamBingeWearablePVT', path='data/PotsdamBingeWearablePVT')
-    
+
     try:
         dataset.load()
     except:
         dataset.download()
         dataset.load()
+
+    
     
     filepath = list(dataset.fileinfo['gaze']['filepath'])
     subject_ids = []

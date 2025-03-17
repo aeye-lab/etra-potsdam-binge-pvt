@@ -1,6 +1,6 @@
-for bac_threshold in 0 #0.01 0.02 0.03
+for bac_threshold in 0
 do
-	for input in data/idt_minimum_duration_100_dispersion_threshold_1.0_eyelink_window_60000_stride_60000.joblib data/idt_minimum_duration_100_dispersion_threshold_1.0_pupilcore_window_60000_stride_60000.joblib #`find data/ -name "*.joblib" -type f`;
+	for input in data/idt_minimum_duration_100_dispersion_threshold_1.0_pupilcore_window_60000_stride_60000.joblib data/idt_minimum_duration_100_dispersion_threshold_1.0_eyelink_window_60000_stride_60000.joblib
 	do
 		for group_variable in trial-time trial random subject
 		do

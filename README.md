@@ -4,6 +4,7 @@ This repository contains the data and the code for the paper: 'Detection of Alco
 * run ```create_data_rf.sh``` if you want to create the training data (create features)
     * the data was already created and can be found in ```data/```
 * run ```run_rf.sh``` to run all the models (this trains the random forest models)
+	* precomputed results to recreate the plots from the paper can be found here: https://osf.io/8uz2b
  
 ### Plotting
 * run ```plot_results_eyelink.ipynb``` to plot and show the results for the remote eye-tracker

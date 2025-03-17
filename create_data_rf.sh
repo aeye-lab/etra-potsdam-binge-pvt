@@ -1,4 +1,4 @@
-for data_source in pupilcore #eyelink pupilcore 
+for data_source in eyelink pupilcore 
 do
     for window_size in 60000    
     do
