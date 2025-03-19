@@ -1,18 +1,5 @@
-from dataclasses import dataclass
-from dataclasses import field
-from typing import Any
 import argparse
-
-import config.config as config
-
 import sys
-# to be changed after release!!!
-sys.path.append('/mnt/mlshare/prasse/aeye_git/pymovements/src/')
-from pymovements.gaze.experiment import Experiment
-from pymovements.dataset.dataset_definition import DatasetDefinition
-from pymovements.dataset.dataset_library import register_dataset
-from pymovements.dataset.dataset_paths import DatasetPaths
-
 import os
 import numpy as np
 import polars as pl
@@ -25,8 +12,7 @@ from sklearn.model_selection import GridSearchCV
 from sklearn.model_selection import GroupKFold, KFold
 from sklearn import metrics
 from sklearn.metrics import mean_squared_error
-#import shap
-sys.path.append('/mnt/mlshare/prasse/aeye_git/eye-movement-preprocessing/')
+
 import preprocessing.feature_extraction as feature_extraction
 import train_classification_model as train_classification_model
 import config.config as config
@@ -99,9 +85,6 @@ def evaluate(args):
         print('skipping... already exists')
         return None
     data = joblib.load(load_path)
-    #print(data.keys())
-    #print(np.unique(data['events'], return_counts=True))
-    #print(allo)
     y = data['y']
     subjects = data['subjects']
     feature_matrix = data['feature_matrix']

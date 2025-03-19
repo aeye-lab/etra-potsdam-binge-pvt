@@ -4,9 +4,6 @@ from typing import Any
 import argparse
 
 import config.config as config
-
-import sys
-sys.path.insert(0,'/mnt/mlshare/prasse/aeye_git/pymovements/src/')   #TODO: change before release
 import pymovements as pm
 
 
